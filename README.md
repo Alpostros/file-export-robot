@@ -5,6 +5,6 @@ An csv file with the below format is used to downlaod and rename the files.
 
 | ID  | Filename        | Link              
 |-----|-----------------|-------------------
-| 101 | somefile.docx   | <any url>
-| 102 | anotherfile.pdf | <any url>
-| 103 | file.txt        | <any url>
+| 101 | somefile.docx   | any url
+| 102 | anotherfile.pdf | any url
+| 103 | file.txt        | any url
