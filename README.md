@@ -8,3 +8,5 @@ A csv file with the below format is used to download and rename the files.
 | 101 | somefile.docx   | any url
 | 102 | anotherfile.pdf | any url
 | 103 | file.txt        | any url
+
+The reason this was implemented with RobotFramework was because the page sometimes required a sign in, sometimes not and sometimes it had to wait for a popup, and it was eaiser for me to implement that conditions with RobotFramework.
